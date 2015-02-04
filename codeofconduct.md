@@ -28,7 +28,14 @@ organizador inmediatamente.
 
 ### Nodeschool Ciudad de México
 
-Organizadores: Jeduan Cornejo [@jeduan](https://twitter.com/jeduan) Rogelio Alberto [@rog3r](https://twitter.com/rog3r), Daniel Zavala [@siedrix](https://twitter.com/siedrix), Antonio Sandoval [@__arch3r](https://twitter.com/__arch3r), Roberto Hidalgo [@unrob](https://twitter.com/unrob), Julio César Rodriguez [@_jurasec](https://twitter.com/_jurasec), Marco Godínez [@markotom](https://twitter.com/markotom).
+Organizadores:
+- Jeduan Cornejo [@jeduan](https://twitter.com/jeduan)
+- Rogelio Alberto [@rog3r](https://twitter.com/rog3r)
+- Daniel Zavala [@siedrix](https://twitter.com/siedrix)
+- Antonio Sandoval [@__arch3r](https://twitter.com/__arch3r)
+- Roberto Hidalgo [@unrob](https://twitter.com/unrob)
+- Julio César Rodriguez [@_jurasec](https://twitter.com/_jurasec)
+- Marco Godínez [@markotom](https://twitter.com/markotom).
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor contacta con uno de los organizadores.**
