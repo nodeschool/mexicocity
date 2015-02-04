@@ -65,7 +65,18 @@ footer {
   background-size: auto 150px;
   margin-top: 50px;
 }
-
+#place-info{
+  width: 50%;
+  float: left;
+}
+#place-logo{
+  width: 50%;
+  float: right;
+  text-align: center;
+}
+#place-logo img{
+  width: 70%;
+}
 .container,
 section {
   max-width: 860px;
