@@ -7,6 +7,8 @@
 
 El sitio está en [el branch gh-pages](https://github.com/nodeschool/mexicocity/tree/gh-pages).
 
+![mexicocity.svg](http://nodeschool.io/images/nodeschool-mexicocity.svg)
+
 ## Otros grupos y eventos para aprender en DF
 
 - [JavaScriptMX](http://javascriptmx.com) - Comunidad.
