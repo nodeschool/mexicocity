@@ -1,0 +1,74 @@
+/*
+Error: Undefined mixin 'transition'.
+        on line 41 of sass/modules/defaults.scss, in `transition'
+        from line 41 of sass/modules/defaults.scss
+
+36: 	width: 360px;
+37: }
+38: 
+39: .logo {
+40: 	margin: 20px 0;
+41: 	@include transition(all, 1s, ease-in-out);
+42: 
+43: 	&:hover {
+44: 		transform:rotate(360deg);
+45: 	}
+46: }
+
+Backtrace:
+sass/modules/defaults.scss:41:in `transition'
+sass/modules/defaults.scss:41
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:348:in `block in visit_mixin'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:98:in `block in with_mixin'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:98:in `with_mixin'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:346:in `visit_mixin'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:79:in `block in with_base'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:430:in `block (2 levels) in visit_rule'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:430:in `map'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:430:in `block in visit_rule'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:428:in `visit_rule'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:79:in `block in with_base'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:52:in `map'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:157:in `visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:8:in `visit'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/root_node.rb:36:in `css_tree'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/engine.rb:368:in `_render_with_sourcemap'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/engine.rb:285:in `render_with_sourcemap'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/plugin/compiler.rb:490:in `update_stylesheet'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/plugin/compiler.rb:209:in `each'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/plugin/compiler.rb:470:in `on_file_changed'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/lib/sass/plugin/compiler.rb:328:in `block in watch'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/vendor/listen/lib/listen/listener.rb:252:in `call'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/vendor/listen/lib/listen/listener.rb:252:in `on_change'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/vendor/listen/lib/listen/listener.rb:290:in `block in initialize_adapter'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/vendor/listen/lib/listen/adapters/polling.rb:48:in `call'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/vendor/listen/lib/listen/adapters/polling.rb:48:in `poll_changed_directories'
+/Users/rog/.rvm/gems/ruby-2.2.1/gems/sass-3.4.13/vendor/listen/lib/listen/adapter.rb:299:in `block in start_poller'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined mixin 'transition'.\A         on line 41 of sass/modules/defaults.scss, in `transition'\A         from line 41 of sass/modules/defaults.scss\A \A 36: 	width: 360px;\A 37: }\A 38: \A 39: .logo {\A 40: 	margin: 20px 0;\A 41: 	@include transition(all, 1s, ease-in-out);\A 42: \A 43: 	&:hover {\A 44: 		transform:rotate(360deg);\A 45: 	}\A 46: }"; }
