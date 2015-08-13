@@ -21,7 +21,7 @@ Los patrocinadores y presentadores están también sujetos al código de conduct
 
 Si un miembro de la comunidad mostrara cualquier conducta abusiva,
 los organizadores de Nodeschool Ciudad de México pueden tomar cualquier acción
-que crean apropiada, incluyendo avisar a los que ofendan o expulsarlos
+que crean apropiada, incluyendo avisar llamarle la atención o expulsarlo
 de la comunidad. Si eres víctima de conductas abusivas, ves a otra persona
 que está siendo acosada, o tienes dudas, por favor contacta con el equipo
 organizador inmediatamente.
