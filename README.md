@@ -1,7 +1,7 @@
 [Mexico City](http://nodeschool.io/mexicocity/)
 ======
 
-[![Gitter chat](https://badges.gitter.im/nodeschool/mexicocity.png)](https://gitter.im/nodeschool/mexicocity)
+Únete a nuestro [Slack](https://chat.javascriptmx.com).
 
 ¿Dudas? [Abre un issue](https://github.com/nodeschool/mexicocity/issues).
 
@@ -11,6 +11,8 @@ El sitio está en [el branch gh-pages](https://github.com/nodeschool/mexicocity/
 
 ## Otros grupos y eventos para aprender en DF
 
-- [JavaScriptMX](http://javascriptmx.com) - Comunidad.
-- [DevF](http://www.devf.mx/) - Escuela de Hackers.
-- [KMMX](http://kmmx.mx) - Cursos.
+- [JavaScriptMX](http://www.meetup.com/JavascriptMX/)
+- [GophersMX](http://www.meetup.com/GophersMX/)
+- [Women Who Code CDMX](http://www.meetup.com/Women-Who-Code-Mexico-City/)
+- [GDG WonderCoders](http://www.meetup.com/GDGWonderCoders/)
+- [Chilango Rails](http://www.meetup.com/Chilango-Rails/)
