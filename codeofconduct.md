@@ -21,7 +21,7 @@ Los patrocinadores y presentadores están también sujetos al código de conduct
 
 Si un miembro de la comunidad mostrara cualquier conducta abusiva,
 los organizadores de Nodeschool Ciudad de México pueden tomar cualquier acción
-que crean apropiada, incluyendo avisar llamarle la atención o expulsarlo
+que crean apropiada, incluyendo avisar, llamarle la atención o expulsarlo
 de la comunidad. Si eres víctima de conductas abusivas, ves a otra persona
 que está siendo acosada, o tienes dudas, por favor contacta con el equipo
 organizador inmediatamente.
@@ -30,15 +30,14 @@ organizador inmediatamente.
 
 Organizadores:
 - Jeduan Cornejo [@jeduan](https://twitter.com/jeduan)
-- Rogelio Alberto [@rog3r](https://twitter.com/rog3r)
-- Daniel Zavala [@siedrix](https://twitter.com/siedrix)
-- Antonio Sandoval [@__arch3r](https://twitter.com/__arch3r)
+- Richard B. Kauffman [@sparragus](https://twitter.com/sparragus)
+- Eduardo Vaugier [@cool_acid](https://twitter.com/cool_acid)
+- Marcela Lango [@marulango](https://twitter.com/marulango)
+- Rodrigo Quezada [@rodikana](https://twitter.com/rodikana)
 - Roberto Hidalgo [@unrob](https://twitter.com/unrob)
-- Julio César Rodriguez [@_jurasec](https://twitter.com/_jurasec)
-- Marco Godínez [@markotom](https://twitter.com/markotom).
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
-por favor contacta con uno de los organizadores.**
+por favor contacta con alguno de los organizadores.**
 
 Los organizadores de las comunidades mostradas arriba hemos desarrollado este código de conducta
 para gobernar los eventos y canales de comunicación respectivos.
