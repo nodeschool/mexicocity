@@ -32,6 +32,7 @@ Organizadores:
 - Jeduan Cornejo [@jeduan](https://twitter.com/jeduan)
 - Richard B. Kauffman [@sparragus](https://twitter.com/sparragus)
 - Eduardo Vaugier [@cool_acid](https://twitter.com/cool_acid)
+- Rogelio Alberto [@rog3r](https://twitter.com/rog3r)
 - Marcela Lango [@marulango](https://twitter.com/marulango)
 - Rodrigo Quezada [@rodikana](https://twitter.com/rodikana)
 - Roberto Hidalgo [@unrob](https://twitter.com/unrob)
