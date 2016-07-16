@@ -9,7 +9,7 @@ Los participantes que violen estas reglas pueden ser sancionados o expulsados
 de la comunidad a discreción de los organizadores de Nodeschool Ciudad de México.
 
 Las formas de acoso incluyen comentarios ofensivos, orales o escritos,
-relacionados con sexo, identidad u orientación sexuales, discapacidades,
+relacionados con genero, identidad u orientación sexuales, discapacidades,
 aspecto físico, edad, raza, nacionalidad o creencias religiosas,
 intimidación, amenazas, persecución, acecho, fotografías o grabaciones abusivas,
 y atenciones sexuales no gratas.
