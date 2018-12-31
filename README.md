@@ -35,9 +35,9 @@ El sitio está en [el branch gh-pages](https://github.com/nodeschool/mexicocity/
 ## Otros grupos y eventos para aprender en la CDMX
 
 - [JavaScriptMX](http://www.meetup.com/JavascriptMX/)
-- [Facebook developer circle: CDMX] (https://www.facebook.com/groups/DevCCiudaddeMexico/)
+- [Facebook developer circle: CDMX](https://www.facebook.com/groups/DevCCiudaddeMexico/)
 - [EventLoop](https://www.facebook.com/eventloopmx/)
-- [Vue Vixens] (https://www.facebook.com/Vue-Vixens-M%C3%A9xico-228609218010964/)
+- [Vue Vixens](https://www.facebook.com/Vue-Vixens-M%C3%A9xico-228609218010964/)
 - [GDG Cloud Mx](https://www.facebook.com/gdgcloudmx/)
 - [GophersMX](http://www.meetup.com/GophersMX/)
 - [Women Who Code CDMX](http://www.meetup.com/Women-Who-Code-Mexico-City/)
