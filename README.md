@@ -42,7 +42,7 @@ El sitio está en [el branch gh-pages](https://github.com/nodeschool/mexicocity/
 - [GophersMX](http://www.meetup.com/GophersMX/)
 - [Women Who Code CDMX](http://www.meetup.com/Women-Who-Code-Mexico-City/)
 - [GDG WonderCoders](http://www.meetup.com/GDGWonderCoders/)
-- [Chilango Dev](http://chilangodev.com/)
+- [GDG IPN](https://www.facebook.com/GDGIPN)
 - [GDG Polymer Mexico](https://www.meetup.com/es-ES/GDGPolymerMexico/)
 - [NodeBots MX](https://www.meetup.com/es-ES/NodeBotsMX/)
 - [Androidinights](https://www.meetup.com/es-ES/Androidinights/)
