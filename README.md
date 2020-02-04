@@ -51,6 +51,7 @@ El sitio está en [el branch gh-pages](https://github.com/nodeschool/mexicocity/
 - [Elixir Mexico City](https://www.meetup.com/es-ES/Elixir-Mexico-City/)
 - [Hackrobots MX](https://www.meetup.com/es-ES/HackrobotsMX/)
 - [Rust MX](https://www.meetup.com/es-ES/Rust-MX/)
+- [Firebase México](https://www.facebook.com/firebasemexico/)
 
 
 ### Codigo de Conducta
