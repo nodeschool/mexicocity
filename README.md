@@ -54,3 +54,7 @@ El sitio está en [el branch gh-pages](https://github.com/nodeschool/mexicocity/
 ### Codigo de Conducta
 
 - [Codigo de Conducta Nodeschool Mexico City](code-of-conduct.md)
+
+### Otros Recursos Gratuitos
+* [Construye un portafolio con ReactJS](https://www.facebook.com/groups/DevCCiudaddeMexico/learning_content/?filter=2279615328950280)
+* [Curso de Chatbots con FB Messenger](https://www.facebook.com/groups/DevCCiudaddeMexico/learning_content/?filter=2297275457057655)
