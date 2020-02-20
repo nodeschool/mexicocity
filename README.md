@@ -17,8 +17,6 @@ Para descargar Node.js
    * Método de instalación más fácil
    * Puede requerir permisos de "sudo"
 
-![Nodes logo](assets/images/node-logo.png)
-
 Recursos Generales :
 ------
 * Node.js API documentation: http://nodejs.org/api/
